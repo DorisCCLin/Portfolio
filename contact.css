@@ -18,6 +18,14 @@
 	top:20px;
 	right:40px;
 	opacity: 0.9;
+	animation: logo ease-in-out infinite 8s;
+}
+
+@keyframes logo{
+	0%{transform: rotate(0deg);}
+	15%{transform: rotate(-90deg);}
+	30%{transform: rotate(0deg);}
+	100%{transform: rotate(0deg);}
 }
 
 .space {
