@@ -68,10 +68,10 @@
 }
 
 .texts  {
-text-align: center;
-padding: 30px 0;
-color: grey;
-font-family: 'Source Sans Pro', sans-serif;
+	text-align: center;
+	padding: 30px 0;
+	color: grey;
+	font-family: 'Source Sans Pro', sans-serif;
 }
 
 .texts:hover{	
